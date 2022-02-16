@@ -2,4 +2,7 @@
 1. при добавлении Dropout качество ухудшется. Это скорее всего связано с особенностью данных
 2. При добавлении слоев качество улучшается. Лучший вариант получился с 3 слоями без dropout
 
-![a](./neural networks/mlp/mlp_pl.png)
+<p float="left">
+  <img src="./neural networks/mlp/mlp_pl.png" width="90%" />
+</p>                                                     
+  
